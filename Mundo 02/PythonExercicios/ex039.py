@@ -1,7 +1,13 @@
-import sys
 from datetime import datetime
 from time import sleep
-from sys import exit
+import sys
+import os
+
+
+def restart_program():
+    python = sys.executable
+    os.execl(python, python, * sys.argv)
+
 
 print('\033[1;32m='*40)
 print('\033[1;32m Checagem para Alistamento do Exercito')
@@ -16,8 +22,10 @@ if sexo == 'FEMININO':
         exit()
     elif continua != 'N' and continua != 'S':
         print('Resposta inválida! Tente novamente.')
+        restart_program()
 elif sexo != 'FEMININO' and sexo != 'MASCULINO':
     print('Resposta inválida! Tente novamente.')
+    restart_program()
 
 ano = int(input('Qual é o seu ano de nascimento? '))
 print('\n\033[1;32mAnalisando... \033[m\n')
