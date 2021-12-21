@@ -4,12 +4,12 @@ Atualmente o curso de Python 3 com o professor Gustavo Guanabara contém 3 Mundo
 
 
 
-![Captura de Tela (137)](C:\Users\Fernanda\Pictures\Screenshots\Captura de Tela (137).png)
+![Print que mostra painel "Meus Cursos" no site Curso Em Video](https://i.imgur.com/a3v2uvb.png)
 
 ######                    Obs: Adblock nativo do browser Brave ativo apenas para caber tudo dentro de um print só.
 
-![Print mostrando data e pontuação do teste referente ao Mundo 3](C:\Users\Fernanda\Desktop\Captura de Tela (138).png)
+![Print mostrando data e pontuação do teste referente ao Mundo 3](https://i.imgur.com/anXwplo.png)
 
-![Print mostrando data e pontuação do teste referente ao Mundo 2](C:\Users\Fernanda\Desktop\Captura de Tela (139).png)
+![Print mostrando data e pontuação do teste referente ao Mundo 2](https://i.imgur.com/NmhNDxS.png)
 
-![Print mostrando data e pontuação do teste referente ao Mundo 1](C:\Users\Fernanda\Desktop\Captura de Tela (140).png)
+![Print mostrando data e pontuação do teste referente ao Mundo 1](https://i.imgur.com/8XBIcR5.png)
