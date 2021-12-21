@@ -1,5 +1,0 @@
-Fernanda: 22,
-Daiane: 25,
-Taylor: 31,
-Gustavo: 44,
-Juliana: 12,
